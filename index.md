@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="images\logo\icons8-cv-100.png" class="floatpic" width="48
+<img src="images\avatar.png" class="floatpic" width="48
 " height="48">
 
 Here is **Name**.
