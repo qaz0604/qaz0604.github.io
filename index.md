@@ -4,9 +4,10 @@ layout: page
 
 # About Me
 
-<img src="" class="floatpic" width="360" height="480">
+<img src="images\logo\icons8-cv-100.png" class="floatpic" width="48
+" height="48">
 
-Here is **  **.
+Here is **我**.
 
 I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
 
