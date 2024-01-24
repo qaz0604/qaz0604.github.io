@@ -4,13 +4,14 @@ permalink: /notes/index.html
 title: Notes
 ---
 
+## General Courses
+- english
+- math
+- 
+
 ## Paper Reading
 
-- [Internet of Everything](https://caihanlin.com/blogs/IoE/)
-- Cyber-security
-- Machine Learning
-- Molecular Communication
-
-
+- 
+- 
 
 <br>
