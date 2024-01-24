@@ -35,19 +35,3 @@ title: Blogs
 - [本科博客，笔记，回忆录](https://mieclance.club/)
 
 <br>
-
-## Leave a Message
-
-<br>
-
-{% include disqus.html %} 
-
-<br>
-
-## Web Star History
-
-[Leave a star if you like it 🥰](https://github.com/GuangLun2000/GuangLun2000.github.io)
-
-[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://star-history.com/#GuangLun2000/GuangLun2000.github.io&Date)
-
-<br>
