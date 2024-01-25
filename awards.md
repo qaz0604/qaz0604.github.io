@@ -1,30 +1,21 @@
 ---
 layout: page
 permalink: /awards/index.html
-title: Awards
+title: 获奖
 ---
 
 ---
-
-## 综合奖学金
-
-
-
-## 科研基金
 
 
 
 ## 科研竞赛
 
-
-
-## 综合荣誉
-
+- None
 
 
 ## 社会服务
 
 
 
-- 
+- None
 

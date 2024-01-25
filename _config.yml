@@ -12,12 +12,12 @@ owner:
   email: Yuzhou.Li@ieee.org
   cv: https://qaz0604.github.io
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: jamesli
+  # twitter: jamesli
   github: qaz0604
-  linkedin: james
-  scholar: https://scholar.google.com/citations?user=
+  # linkedin: james
+  # scholar: https://scholar.google.com/citations?user=
   bilibili: 26187851
-  researchgate: https://www.researchgate.net/profile/
+  # researchgate: https://www.researchgate.net/profile/
   zhihu: https://www.zhihu.com/
   # facebook: 
   # instagram: 
@@ -40,11 +40,11 @@ links:
     url: /
   # - title: 发表
   #   url: /publications/
-  - title: 得奖情况
+  - title: 获奖
     url: /awards/
   - title: 团队
     url: /teams/
-  - title: 兴趣爱好
+  - title: 兴趣
     url: /hobbies/
   - title: 记录
     url: /notes/
