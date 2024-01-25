@@ -6,17 +6,10 @@ title: Publications
 
 
 
-## Conference Paper
 
-- 
 
--
 
-- 
-
-  <br>
-
-## Journal Paper
+## 期刊论文
 
 - 
 
@@ -24,7 +17,7 @@ title: Publications
 
 ---
 
-## Working Manuscript
+## 工业设计
 
 - 
 - 
@@ -32,7 +25,7 @@ title: Publications
 
 ---
 
-## Undergrad Thesis
+## 毕业论文
 
 - 
 -

@@ -36,17 +36,17 @@ google_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
+  - title: 关于
     url: /
-  - title: Publications
-    url: /publications/
-  - title: Awards
+  # - title: 发表
+  #   url: /publications/
+  - title: 得奖情况
     url: /awards/
-  - title: Teams
+  - title: 团队
     url: /teams/
-  - title: Hobbies
+  - title: 兴趣爱好
     url: /hobbies/
-  - title: Notes
+  - title: 记录
     url: /notes/
  # - title: Blogs
    # url: /blogs/

@@ -4,19 +4,27 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-## Scholarships
+---
+
+## 综合奖学金
 
 
 
-## Competitions
+## 科研基金
 
 
 
-## Honors
+## 科研竞赛
 
 
 
-## Services
+## 综合荣誉
+
+
+
+## 社会服务
+
+
 
 - 
 
