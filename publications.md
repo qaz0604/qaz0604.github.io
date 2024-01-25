@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/index.html
-title: Publications
+title: 发表
 ---
 
 
@@ -16,9 +16,6 @@ title: Publications
   <br>
 
 ---
-
-## 工业设计
-
 - 
 - 
   <br>

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /notes/index.html
-title: Notes
+title: 笔记
 ---
 
 ## General Courses
